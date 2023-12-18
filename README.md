@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "7. Работа с HTTP"
+# Домашнее задание к занятию "7. Работа с HTTP!"
 
 ![CI](https://github.com/sskulikov/ahj-http/actions/workflows/web.yml/badge.svg)
 
